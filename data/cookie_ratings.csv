@@ -1,23 +1,24 @@
-Name,Savannah Smile,Thin Mint,Do-si-do,Trefoil,Toffee-tastic,Tagalong,Samoas,S'mores
-Chris,6.5,6,7.5,7,5,8,9,7
-Colleen,8,9,6,5,5,7,8.5,5
-Derek,6,9,6,5,3,8,9,5
-Kevin,7,4,,8,6,,9,
-Vi,,,,,5,,,6
-Shashin,,,,,7,,9,
-Maggie,6,,,,6,,8,
-Brandon,7,,,,5,8,6,8
-Amanda,7,,,,3,,9,
-Roman*,10,4,1,6,6,4,9,4
-Jeff,1,7,7,3,3,8,7,4
-Phteven,5,10,9,5,5,5,5,5
-Lara,2,5,10,2,2,5,6,8
-Tom D,,8,9,6,,10,2,7
-Nobis,9,7,8,7,8,3,2,
-Emily,,7,8,7,8,,8,
-Varun,,9,5,5,7,6,9,
-Araba,6,6.5,5,8,4,4.5,9,3
-Jon Park,,8,7,7,,6,8.5,
-Charlotte,7,9,5,6,3,8,9,5
-Justin,,8.5,6,8,,,9,
-Dan,,7.5,4,5,,4,6,
+Name,Savannah Smile,Thin Mint,Do-si-do,Trefoil,Toffee-tastic,Tagalong,Samoas,S'mores,Digital Safety
+Chris,6.5,6,7.5,7,5,8,9,7,TRUE
+Colleen,8,9,6,5,5,7,8.5,5,TRUE
+Derek,6,9,6,5,3,8,9,5,TRUE
+Kevin,7,4,,8,6,,9,,TRUE
+Vi,,,,,5,,,6,TRUE
+Shashin,,,,,7,,9,,TRUE
+Maggie,6,,,,6,,8,,TRUE
+Brandon,7,,,,5,8,6,8,TRUE
+Amanda,7,,,,3,,9,,TRUE
+Roman*,10,4,1,6,6,4,9,4,FALSE
+Jeff,1,7,7,3,3,8,7,4,FALSE
+Phteven,5,10,9,5,5,5,5,5,FALSE
+Lara,2,5,10,2,2,5,6,8,FALSE
+Tom D,,8,9,6,,10,5,7,FALSE
+Nobis,9,7,8,7,8,3,2,,FALSE
+Emily,,7,8,7,8,,8,,FALSE
+Varun,,9,5,5,7,6,9,,TRUE
+Araba,6,6.5,5,8,4,4.5,9,3,TRUE
+Jon Park,,8,7,7,,6,8.5,,TRUE
+Charlotte,7,9,5,6,3,8,9,5,FALSE
+Justin,,8.5,6,8,,,9,,FALSE
+Dan,,7.5,4,5,,4,6,,TRUE
+Charlie,,7,6,6,,7.5,8,6.5,FALSE
