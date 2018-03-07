@@ -10,6 +10,16 @@ Girl Scout cookies are pretty good. Also, the nice Girl Scout who I purchased my
 ## Recommendations
 Everyone can benefit from more Girl Scout cookies in their day-to-day life. Girl Scout cookies are strongly correlated with happiness, increased throughput, and an ability to scale a business.
 
+### Girl Scout Cookies Are...
+
+- [ ] Terrible
+- [ ] Boring
+- [ ] Meh
+- [ ] Good
+- [ ] Great
+- [ ] Amazing
+- [x] BITCONNEEEEEEEEEEEECT
+
 ## Detailed Findings
 - Thin Mints, coming in as the consensus #1 cookie in preseason polls, were dethroned by Samoas but still finished with a respectable ranking.
 - Gluten Free cookies aren't as bad as initially thought but are still garbage-tier.
